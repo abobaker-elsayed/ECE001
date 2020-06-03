@@ -1,0 +1,96 @@
+body{
+  background-color:#DBEAFF;
+  color:#000;
+  margin:0;
+  font-family:sans-serf;
+  font-size:20px;
+}
+.container{
+  width:85%;
+  margin:auto;
+}
+#main-header {
+  background-color:#4C84D5;
+  margin:0;
+  padding:30px;
+  color:#fff;
+}
+#navbar{
+  width:auto;
+  background-color:#2B333D;
+  color:#555;
+  min-height:70px;
+  text-align: center;
+  text-decoration:none;
+}
+
+#navbar ul {
+  padding:0;
+  list-style:none;
+  padding:10px;
+  line-height: 1.6em;
+}
+
+#navbar li{
+  color:white;
+  display:inline;
+  padding-right:15px;
+  text-decoration:none;
+}
+
+#navbar a{
+  color:white;
+}
+
+#navbar a:visited {
+  color:blue;
+}
+
+#show-case {
+  background:url('../images/corona.jpg') bottom left;
+  min-height:160px
+}
+
+.header {
+  padding:20px;
+}
+
+#show-case h1{
+  padding-top:30px;
+  color:#BBCAE4;
+  font-size:40px;
+  text-decoration: bold
+}
+
+.space {
+  padding:20px;
+}
+
+#about {
+  padding:20px;
+  background-color:#2B333D;
+  border-radius:40px;
+  color:#BFD7DE;
+
+}
+
+#image {
+  background:url('../images/diy.jpg') no-repeat center center;
+  padding:200px;
+  margin:20px 10px 30px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*hello*/

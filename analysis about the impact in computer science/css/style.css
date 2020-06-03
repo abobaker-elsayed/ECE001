@@ -1,0 +1,103 @@
+body{
+  background-color:#DBEAFF;
+  color:#000;
+  margin:0;
+  font-family:sans-serf;
+  font-size:20px;
+  line-height: 1.5em;
+}
+.container{
+  width:85%;
+  margin:auto;
+}
+#main-header {
+  background-color:#4C84D5;
+  margin:0;
+  padding:30px;
+  color:#fff;
+}
+#navbar{
+  width:auto;
+  background-color:#2B333D;
+  color:#555;
+  min-height:70px;
+  text-align: center;
+  text-decoration:none;
+}
+
+#navbar ul {
+  padding:0;
+  list-style:none;
+  padding:10px;
+  line-height: 1.6em;
+}
+
+#navbar li{
+  color:white;
+  display:inline;
+  padding-right:15px;
+  text-decoration:none;
+}
+
+#navbar a{
+  color:white;
+}
+
+#navbar a:visited {
+  color:blue;
+}
+
+#show-case {
+  background:url('../images/corona.jpg') bottom left;
+  min-height:160px
+}
+
+.header {
+  padding:20px;
+}
+
+#show-case h1{
+  padding-top:30px;
+  color:#BBCAE4;
+  font-size:40px;
+  text-decoration: bold
+}
+
+.space {
+  padding:20px;
+
+}
+
+#about {
+  padding:20px;
+  background-color:#2B333D;
+  border-radius:40px;
+  color:#BFD7DE;
+}
+
+#image {
+  padding:200px 10px 800px 0px;
+  background:url('../images/chart.png') no-repeat ;
+  margin-top:30px;
+}
+
+#table {
+  padding:30px 80px 100px 0px;
+  background:url('../images/table.jpg') no-repeat;
+  margin-top:20px;
+  margin-bottom:50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*hello*/
